@@ -6,8 +6,7 @@ This project tackles the challenge of aligning a query with a set of tools. The 
 
 ## Authors
 
-- [Aryan Shukla](https://www.github.com/aryanshukla7)
-
+- [Abhinav](https://github.com/Abhinav210310453045)
 
 ## Deployment
 
