@@ -15,3 +15,5 @@ To deploy this project, simply run the ```main.ipynb``` notebook keeping ```tool
 
 ## Note
 - To read in detail about the project please read, ```Report.pdf``` and ```Presentation.pptx```
+- This project was created for paticipating in INTER IIT Tech Meet 12.0 at IIT MADRAS.
+- Our Team was Team69 from IIT JAMMU.
